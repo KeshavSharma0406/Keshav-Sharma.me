@@ -10,7 +10,7 @@ BORDER = "#30363d"
 TEXT = "#c9d1d9"
 MUTED = "#8b949e"
 GREEN = "#39d353"
-# Heatmap levels 0-4, then the highlight used for the best day.
+# The info card's colour swatches.
 PALETTE = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353", "#69f0a0"]
 
 FONT = 'ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace'

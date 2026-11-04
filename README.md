@@ -2,7 +2,11 @@
 
 <h3><code>keshav@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="810" alt="Keshav Sharma's GitHub contribution graph for the last year, updated daily" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeshavSharma0406/Keshav-Sharma.me/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeshavSharma0406/Keshav-Sharma.me/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/KeshavSharma0406/Keshav-Sharma.me/output/github-snake.svg" width="810" alt="A snake eating Keshav Sharma's GitHub contribution graph, updated daily" />
+</picture>
 
 <br><br>
 

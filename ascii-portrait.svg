@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 480" width="430" height="480" font-family='ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace' role="img" aria-label="portrait.txt">
+<style>@keyframes wipe{from{transform:scaleX(1)}to{transform:scaleX(0)}}.w{transform-box:fill-box;transform-origin:right center;animation:wipe .45s steps(24) both}@media (prefers-reduced-motion:reduce){.w{display:none}}</style>
+<rect x="0.5" y="0.5" width="429" height="479" rx="10" fill="#0d1117" stroke="#30363d"/>
+<line x1="1" y1="34" x2="429" y2="34" stroke="#30363d"/>
+<circle cx="18" cy="17" r="4.5" fill="#30363d"/><circle cx="34" cy="17" r="4.5" fill="#30363d"/><circle cx="50" cy="17" r="4.5" fill="#30363d"/>
+<text x="215.0" y="22" text-anchor="middle" font-size="12" fill="#8b949e">portrait.txt</text>
+
+<text x="15.0" y="54.41" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                                                                                                        </text>
+<text x="15.0" y="61.12" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                                `    :----:`                                                            </text>
+<text x="15.0" y="67.83" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                              ::--=+c****c*cc*=:                                                        </text>
+<text x="15.0" y="74.54" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                           :  --++==:::` :==+*ccsc+-:                                                   </text>
+<text x="15.0" y="81.25" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                          :::--=----=++++==:::-=+c*++=--:                                               </text>
+<text x="15.0" y="87.96" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                            :`::::`      ::=----=*+==:     `    :=*ccccs#%#s*-                                          </text>
+<text x="15.0" y="94.67" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                           :            ::: :==+=          :==++=::=c###sccsc+: :                                       </text>
+<text x="15.0" y="101.38" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                           :           `:: -*:-:       `:-------: ::===++=    =*+=-                                     </text>
+<text x="15.0" y="108.09" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                           `          ::` `+-`:       ```::    `---=====**s#%%%#scc*=                                   </text>
+<text x="15.0" y="114.80" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                            :        `-`  =:`:        ``::---==+*+*+=--=*csssssssc*csc+-                                </text>
+<text x="15.0" y="121.51" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                             :       :: `:+:                    ::-+*cc****ccssc*+-:=*ccc-                              </text>
+<text x="15.0" y="128.22" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                :        `:                    `:  -=*#@%%#%%#s*=-:`  -+cc+:                            </text>
+<text x="15.0" y="134.93" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                :                                     :-*#@%s**+-: ` `+=  :=-                           </text>
+<text x="15.0" y="141.64" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                                                   `      :+*c*      *#s+:  :`                          </text>
+<text x="15.0" y="148.35" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                                                  :`  ` ::--=+s##s*=*csscc*+=:                          </text>
+<text x="15.0" y="155.05" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                                                           -c#cs%@@%#sscsssc*+:                         </text>
+<text x="15.0" y="161.76" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                      ``                                     -scc#%@##%%#sss*=-:                        </text>
+<text x="15.0" y="168.47" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                    ````````        `                      :    : =s@#cs#sc*==+=:                       </text>
+<text x="15.0" y="175.18" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                ``````::::::: :`           ``               -=  `=  -s#*==+*+=-*=`                      </text>
+<text x="15.0" y="181.89" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                              `:::::::::::::::-::--:-----====--::            :-::--=+  +*+-==+:-+                       </text>
+<text x="15.0" y="188.60" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                             `:::::::::::::-=-==+++++=++++****+++=--::   ::   ::-   =s:  ==--:::-:                      </text>
+<text x="15.0" y="195.31" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                            `::::::::::::::--=+++*++++c**ccccsccc*****+-  `     `:   :cc` --:-:- -:                     </text>
+<text x="15.0" y="202.02" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                            ::::::::``::`::::-=+***+*c*++ccss#scccss##sc+-`:  `  `-`   +c`   : :::-                     </text>
+<text x="15.0" y="208.73" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                            ::::::::::``::::::=+*****cc**cc####s##%%%%%##c+-:::-::--:   -+  -::-:  :                    </text>
+<text x="15.0" y="215.44" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                           `:::::::::::::::---+**cc****c*s#s#######%%%%@%%#c+--=+=:`:   ::--*=::                        </text>
+<text x="15.0" y="222.15" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                           ::::::::::::::::-==ccs###scccccsssss#%#%%@@@@@%%%#c=:+c+:`   `::-=* :                        </text>
+<text x="15.0" y="228.86" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">              `           `::::::::::::::::-=+*css#%%###ssssccs#%%%@@@@@@@@@%%c=:=sc+    ::::=-                         </text>
+<text x="15.0" y="235.57" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                          :::::::::::::::::-==+**cs#%%#ssccsscs#%%@@@@@@@@@@@@@s+ +s%*    :`-::                         </text>
+<text x="15.0" y="242.28" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                          ::::-:::``````::::---++*cssssccccs###%#s@@@@@@@@@@@@@@@c-*%%  ::                              </text>
+<text x="15.0" y="248.99" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                         `::::              :---==+++**+***csss#%s####ccc*cc**c##s+=#@- ::   :                          </text>
+<text x="15.0" y="255.70" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">               `::`      :-::::`            `::  ``::-=+**++=--:==         :=**cc*+=*@*    :@@#=                        </text>
+<text x="15.0" y="262.41" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">               : `::`    :-:::::::``                    :-:             :: :-+s#%#ss+s* -c-#s ss                        </text>
+<text x="15.0" y="269.12" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">               : ``:-:   :-:::::`                        -=----=-:    :=*c***- -c####*+ =s@@* *#                        </text>
+<text x="15.0" y="275.83" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">               :  `:-:   ::::::``   `--             `   *#%#sc+:   -:    =#*==  =c#%%## +@@@# #c                        </text>
+<text x="15.0" y="282.54" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                :  :::  `-::::::`````:::``:-:       `  *#@@@%s*`   -=+==c@@#++css%%%%%%- c#@#cs                         </text>
+<text x="15.0" y="289.25" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                 ``::   :-::::::::::::```::::       ` -cs%@@%#s*     `::-::+s%@@@@@%%%@*  *%%s                          </text>
+<text x="15.0" y="295.96" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                  `::   :-:::::::``     ::::`      `: :cs#@@%%%@#*-`::-=+c#%@@@@@@@%%%%+ *#@#                           </text>
+<text x="15.0" y="302.67" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                   :::` `-:::::::::::::--:::`` ```:::  *s#@@@@@@@@%s+=*c#%@@@@@@@@@%###-+@@%:                           </text>
+<text x="15.0" y="309.38" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                    ::`  :-::::::::-==----:::```::::`  *c#@%%@@@@@@@@s*+*cs#@@@@@@%%##s *%@=                            </text>
+<text x="15.0" y="316.09" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                     -`  :-::-::::::-====-:::```::::  -*c#@%#%%%%@%%@@@#sc#%%%%######s+ c@=                             </text>
+<text x="15.0" y="322.80" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                     :-   -::::::::`::---:::`  ``::::-++*s@@@%%%*c#%%#@%%#s#ss##ss##ss  @%                              </text>
+<text x="15.0" y="329.51" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                      ::  :::::::::::::::::`    ::::::=*cc%@@@@@# -*sc#%ss#sssssssssc* #%-                              </text>
+<text x="15.0" y="336.22" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                           :::::::::::::::``    -:::: :=+**#%#%@@+ -***#%%%####sssscc- =                                </text>
+<text x="15.0" y="342.93" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                           `::::::::::::::`     :-:``    =*:   =#s*=-+cs#ssssssss##s*                                   </text>
+<text x="15.0" y="349.64" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                            :::::::::::::`               --   +s%%%s+*css##%#s###ssc-                                   </text>
+<text x="15.0" y="356.35" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                             ::::::::::::`  `         :=--*ss@@@@@@@@#s#####%##ssss-                                    </text>
+<text x="15.0" y="363.05" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                               ::::::::::::`       :--+*  :==-++s#######%######scc=                                     </text>
+<text x="15.0" y="369.76" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                :::::::::`       ``::+s*: -c*cc=--===*cs######scc*                                      </text>
+<text x="15.0" y="376.47" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                 `::::::        :: ` -+*****=-=++==::--+s####s***- -==:`                                </text>
+<text x="15.0" y="383.18" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                    :::`                             :=+c%%cc*+*: =*=+*+++=--:                          </text>
+<text x="15.0" y="389.89" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">             `                       ::::`           :-**+cs@@%#sc+-: =*c%#+*==  =+*+-+*++++**+++=--`                   </text>
+<text x="15.0" y="396.60" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                      ::::`````:::``:-+ccc#####%%%#s*+*s#s**+: - :=+*= c++++*****c****++-`              </text>
+<text x="15.0" y="403.31" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                              `       `:::::``::::```      `+*cccccssccsscc=  =@c +++= +---:-=+*cccc**cc*c*+-:          </text>
+<text x="15.0" y="410.02" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                              ```      `::`````````            =*cscs#%%s*   c@@+ +=+- **++==-:-=++cc*ccc**cc**+-:      </text>
+<text x="15.0" y="416.73" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                ```     `      ``      -=*#%#scs%%%#s%%s   :%@@@ -*+=- *++c++=-` ::=***+++**cccccc+==`  </text>
+<text x="15.0" y="423.44" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                               ````:`          ```::::-+cs#@@@@@####c*   +%@@@@@ =+==--c:+cc=++-:` :*c+=--+*+++****cc*+=</text>
+<text x="15.0" y="430.15" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                               `````:::`      `::---=-=- -+*ccccccs=   *%@@@%@@# ===+ =*`+*c+++++: :=+====+**+==++*****c</text>
+<text x="15.0" y="436.86" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                               ``````::::       :`` :-=- `====-==:   :s%@%%%%@@= ==== *-:==*c*++=: :-:-=+++cc*+===+==+==</text>
+<text x="15.0" y="443.57" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                  `````````       ::               c#%%%%%%%%@@ -==-: + :-=+c**++:`:` `-=+cc*+========++</text>
+<text x="15.0" y="450.28" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                ` ` ``````````     -            :s%%%%%%%##%@@  ===- +-  =++**+*+--    :=+cc*+===-===+**</text>
+<text x="15.0" y="456.99" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                       `````````          :`-+cs%%#########@@- --==:-+  `-++c*++---:    -****++=--===***</text>
+<text x="15.0" y="463.70" xml:space="preserve" font-size="5.5" textLength="400.0" lengthAdjust="spacing" fill="#c9d1d9">                                        ````````````````--=*s##%#sscsssss#%@: --==-:*-  `-=*c*==+=-:    =***+=+-:-++**++</text>
+<rect class="w" style="animation-delay:0ms" x="14.0" y="49.00" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:28ms" x="14.0" y="55.71" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:56ms" x="14.0" y="62.42" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:84ms" x="14.0" y="69.13" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:112ms" x="14.0" y="75.84" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:140ms" x="14.0" y="82.55" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:168ms" x="14.0" y="89.26" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:196ms" x="14.0" y="95.97" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:224ms" x="14.0" y="102.68" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:252ms" x="14.0" y="109.39" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:280ms" x="14.0" y="116.10" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:308ms" x="14.0" y="122.81" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:336ms" x="14.0" y="129.52" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:364ms" x="14.0" y="136.23" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:392ms" x="14.0" y="142.94" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:420ms" x="14.0" y="149.65" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:448ms" x="14.0" y="156.35" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:476ms" x="14.0" y="163.06" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:504ms" x="14.0" y="169.77" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:532ms" x="14.0" y="176.48" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:560ms" x="14.0" y="183.19" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:588ms" x="14.0" y="189.90" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:616ms" x="14.0" y="196.61" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:644ms" x="14.0" y="203.32" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:672ms" x="14.0" y="210.03" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:700ms" x="14.0" y="216.74" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:728ms" x="14.0" y="223.45" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:756ms" x="14.0" y="230.16" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:784ms" x="14.0" y="236.87" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:812ms" x="14.0" y="243.58" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:840ms" x="14.0" y="250.29" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:868ms" x="14.0" y="257.00" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:896ms" x="14.0" y="263.71" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:924ms" x="14.0" y="270.42" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:952ms" x="14.0" y="277.13" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:980ms" x="14.0" y="283.84" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1008ms" x="14.0" y="290.55" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1036ms" x="14.0" y="297.26" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1064ms" x="14.0" y="303.97" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1092ms" x="14.0" y="310.68" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1120ms" x="14.0" y="317.39" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1148ms" x="14.0" y="324.10" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1176ms" x="14.0" y="330.81" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1204ms" x="14.0" y="337.52" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1232ms" x="14.0" y="344.23" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1260ms" x="14.0" y="350.94" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1288ms" x="14.0" y="357.65" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1316ms" x="14.0" y="364.35" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1344ms" x="14.0" y="371.06" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1372ms" x="14.0" y="377.77" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1400ms" x="14.0" y="384.48" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1428ms" x="14.0" y="391.19" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1456ms" x="14.0" y="397.90" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1484ms" x="14.0" y="404.61" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1512ms" x="14.0" y="411.32" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1540ms" x="14.0" y="418.03" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1568ms" x="14.0" y="424.74" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1596ms" x="14.0" y="431.45" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1624ms" x="14.0" y="438.16" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1652ms" x="14.0" y="444.87" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1680ms" x="14.0" y="451.58" width="402.0" height="7.21" fill="#0d1117"/>
+<rect class="w" style="animation-delay:1708ms" x="14.0" y="458.29" width="402.0" height="7.21" fill="#0d1117"/>
+</svg>

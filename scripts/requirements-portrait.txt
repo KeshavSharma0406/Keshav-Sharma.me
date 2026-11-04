@@ -1,0 +1,5 @@
+# Local only, for building the portrait. The daily workflow doesn't install these.
+pillow
+numpy
+opencv-python-headless
+rembg[cpu]

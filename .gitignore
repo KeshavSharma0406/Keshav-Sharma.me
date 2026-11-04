@@ -1,0 +1,12 @@
+# Keep source photos out of this public repo. Only the generated SVG is published.
+photo/
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.webp
+
+.venv/
+__pycache__/
+.claude/
+.impeccable/

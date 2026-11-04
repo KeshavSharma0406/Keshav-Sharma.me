@@ -1,11 +1,11 @@
 <div align="center">
 
-<h3><code>keshav@github ~ $ ./contributions.sh</code></h3>
+<h3><code>keshav@github ~ $ ./snake.sh</code></h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeshavSharma0406/Keshav-Sharma.me/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeshavSharma0406/Keshav-Sharma.me/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/KeshavSharma0406/Keshav-Sharma.me/output/github-snake.svg" width="810" alt="A snake eating Keshav Sharma's GitHub contribution graph, updated daily" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" width="810" alt="Decorative snake animation on a green grid" />
 </picture>
 
 <br><br>
